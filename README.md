@@ -1,2 +1,0 @@
-# Python-Lino-Galiana
-bonjour
